@@ -1,7 +1,7 @@
 # Algorithmic Trading in Python
 
 This repository
-
+TEST THE EDITING Y'ALL
 ## Course Outline
 
 * Section 1: Algorithmic Trading Fundamentals
